@@ -1,0 +1,32 @@
+#
+##########
+#
+#
+#
+#
+#
+#
+#
+#
+#########
+nombre de briques : 
+166
+#
+design du niveau
+O;O;O;O;O;O;O;O;O;O;O;O;O;
+O;A;O;A;O;A;O;A;O;A;O;A;O;
+A;O;A;O;A;O;A;O;A;O;A;O;A;
+O;A;O;A;O;A;O;A;O;A;O;A;O;
+A;O;A;O;A;O;A;O;A;O;A;O;A;
+O;A;O;A;O;A;O;A;O;A;O;A;O;
+A;O;A;O;A;O;A;O;A;O;A;O;A;
+O;A;O;A;O;A;O;A;O;A;O;A;O;
+A;O;A;O;A;O;A;O;A;O;A;O;A;
+O;A;O;A;O;A;O;A;O;A;O;A;O;
+A;O;A;O;A;O;A;O;A;O;A;O;A;
+O;A;O;A;O;A;O;A;O;A;O;A;O;
+A;O;A;O;A;O;A;O;A;O;A;O;A;
+O;A;O;A;O;A;O;A;O;A;O;A;O;
+A;O;A;O;A;O;A;O;A;O;A;O;A;
+;
+
